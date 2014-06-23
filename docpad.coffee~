@@ -10,16 +10,16 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://www.mikezawacki.com"
+			url: "http://www.ytechie.com"
 
 			# The default title of our website
-			title: "Michael Zawacki"
+			title: "Jason Young"
 
 			# The website author's name
-			author: "Michael Zawacki"
+			author: "Jason Young"
 
 			# The website author's email
-			email: "mikezawacki@outlook.com"
+			email: "jason@ytechie.com"
 
 
 		# -----------------------------
@@ -71,7 +71,7 @@ docpadConfig = {
 			title.replace("'", "\\'")
 
 		# Discus.com settings
-		disqusShortName: 'CascadeSkier'
+		disqusShortName: 'ytechie'
 
 		# Google+ settings
 		googlePlusId: '105512648454315380048'
