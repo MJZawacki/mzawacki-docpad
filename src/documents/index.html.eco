@@ -7,7 +7,7 @@ isPaged: true
 pagedCollection: posts
 pageSize: 3
 pagePathPrefix: page
-title: "YTECHIE.com | Productive software development using C#, Node.js, & Windows Azure"
+title: "mzawacki.com - Software Development for Design and Manufacturing"
 ---
 
 <% for document in @getCollection('posts').toJSON()[@document.page.startIdx...@document.page.endIdx]: %>
