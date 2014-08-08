@@ -1,15 +1,7 @@
 ---
 layout: post
-title: Introduction
-date: 2014-06-25
+title: Designing Enterprise Apps for Windows 8.1
+date: 2014-08-08
 ---
 
-#This is my first post
-
-
-	code
-	
-	
-Welcome to my blog. More about me: 
-
-I've been working in the Product Lifecycle Management industry for 15 years. Ten of those with Siemens PLM in both Implementation Consulting and Product Management on the Teamcenter application.
+JT2Go

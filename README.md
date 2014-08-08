@@ -1,8 +1,9 @@
-This is the source for the [YTechie.com developer blog](http://www.ytechie.com/). It's set up so that I can easily add/edit content, check it into GitHub, and have Azure automatically pull the source and deploy it.
+##About
 
-This is based off the website of [Erv Walter](http://www.ewal.net/).
+This is the source for the [www.mjzawacki.com](http://www.mjzawacki.com/) which is based off the website of [Erv Walter](http://www.ewal.net/). It is set up to deploy directly to Azure where the web site is automatically configured and deployed.
 
-For more information about [why I'm using DocPad as my blogging platform, read this blog post](http://www.ytechie.com/2013/11/blogging-awesomeness-with-a-static-generator-and-markdown/).
+To learn more about the evolution of the code behind this site, check out [How YTechie uses DocPad](http://www.ytechie.com/2013/11/blogging-awesomeness-with-a-static-generator-and-markdown/) and [Deploying DocPad on Azure](http://www.ewal.net/2013/10/10/deploying-docpad-sites-to-azure/).
+
 
 ###Installation
 
@@ -22,6 +23,8 @@ For more information about [why I'm using DocPad as my blogging platform, read t
 
 
 #### License
+
+Portions Copyright (c) 2014 [Michael Zawacki](http://www.mzawacki.com/)
 
 Portions Copyright (c) 2013 [Jason Young](http://www.ytechie.com/)
 
