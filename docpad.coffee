@@ -13,7 +13,7 @@ docpadConfig = {
 			url: "http://www.mjzawacki.com"
 
 			# The default title of our website
-			title: "Michael Zawacki"
+			title: "MJZawacki"
 
 			# The website author's name
 			author: "Michael Zawacki"
