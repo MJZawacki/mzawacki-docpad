@@ -2,6 +2,7 @@
 layout: post
 title: 3D Printing
 date: 2014-09-17
+tags: [Manufacturing, 3D Printing]
 ---
 
 3d printing has seen quite a lot of hype over the last couple of years. Chris Anderson wrote about it in his book, [Makers: The New Industrial Revolution](http://amzn.com/0307720969), Staples started selling their first [3D printers](http://www.staples.com/3D-Printers/cat_CL211598) to consumers, and [Autodesk](http://www.autodesk.com/campaigns/spark) is building their own line of printers.
