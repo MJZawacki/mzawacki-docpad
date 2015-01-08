@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Designing Enterprise Apps for Windows 8.1
-date: 2014-08-08
+title: Inking and Text Recognition in Windows Store Apps
+date: 2015-01-07
 draft: true
 ---
 
@@ -14,6 +14,6 @@ How has this come to be?
 * Platform and frameworks that make it easy to just add one more menu item
 
 Productivity talks about flow. Is it possible for a user to flow in most LOB apps?
-[Attaining FLow](http://lifehacker.com/the-key-to-better-work-email-less-flow-more-1617833183)
+[Attaining Flow](http://lifehacker.com/the-key-to-better-work-email-less-flow-more-1617833183)
 
 Win 8 modern apps are a chance to reverse this model in the Enterprise
